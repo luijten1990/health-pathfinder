@@ -1,0 +1,7 @@
+{
+  "name": "health-pathfinder",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": { "build": "tsc", "check": "tsc --noEmit" },
+  "devDependencies": { "typescript": "^5.9.2" }
+}
